@@ -1,0 +1,13 @@
+{
+  "twilio"              : {
+    "key"               : "[KEY]",
+    "secret"            : "[SECRET]",
+    "phone"             : "[PHONE]"
+  },
+  "mailgun"             : {
+    "user"              : "[USER]",
+    "pass"              : "[PASS]",
+    "api_key"           : "[KEY]",
+    "domain"            : "[DOMAIN]"
+  }
+}
