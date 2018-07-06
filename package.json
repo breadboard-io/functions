@@ -1,0 +1,29 @@
+{
+  "name": "functions",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breadboard-io/functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/breadboard-io/functions/issues"
+  },
+  "homepage": "https://github.com/breadboard-io/functions#readme",
+  "dependencies": {
+    "config": "^1.30.0",
+    "lodash": "^4.17.10",
+    "nodemailer": "^4.6.7",
+    "nodemailer-mailgun-transport": "^1.4.0",
+    "twilio": "^3.17.3"
+  }
+}
